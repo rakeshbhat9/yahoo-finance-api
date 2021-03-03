@@ -3,6 +3,10 @@ yahoo-finance-api
 
 Python module to get stock data from Yahoo! Finance
 
+From pypi:
+
+    pip3 install yahoo-finance-api
+
 From repo:
 
     $ git clone git://github.com/rakeshbhat9/yahoo-finance-api.git
