@@ -1,5 +1,3 @@
-
-=============
 yahoo-finance-api
 =============
 
@@ -13,7 +11,8 @@ Usage examples
 --------------
 Detailed examples covered in example.ipynb
 
-Available functions
+Available Functions
+--------------
 
 - ``get_historic_data()``
 - ``get_most_active_stocks()``
